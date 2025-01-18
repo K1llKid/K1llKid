@@ -7,4 +7,5 @@
 ------------
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,lua,)](https://skillicons.dev)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
