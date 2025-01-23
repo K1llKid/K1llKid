@@ -16,8 +16,10 @@
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
-#### Steam profile
+#### Socials
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197998052211/)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](https://anilist.co/user/killkid/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://k1llkid.github.io/myincrediblemind.github.io/)
 
 
 
