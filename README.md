@@ -19,6 +19,7 @@
 #### | Socials
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197998052211/)
 [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](https://anilist.co/user/killkid/)
+
 [![Backloggd](https://backloggd.com/u/killkid/)
 
 ## A little project
